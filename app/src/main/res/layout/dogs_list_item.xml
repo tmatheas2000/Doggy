@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="16dp"
+    app:cardElevation="5dp"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15sp"
+    android:background="@color/white"
+    android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="80sp"
+            android:layout_height="80sp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_launcher_background"
+            android:id="@+id/dog_image" />
+
+        <TextView
+            android:id="@+id/dog_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:layout_marginLeft="15sp"
+            android:layout_gravity="center_vertical"
+            android:text=""/>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

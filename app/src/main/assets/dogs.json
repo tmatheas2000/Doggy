@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Affenpinscher",
+    "breedFor": "Small rodent hunting, lapdog",
+    "breedGroup": "Toy",
+    "lifeSpan": "10 - 12 years",
+    "origin": "Germany, France",
+    "image": "https://images.dog.ceo/breeds/affenpinscher/n02110627_10986.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Airedale Terrier",
+    "breedFor": "Badger, otter hunting",
+    "breedGroup": "Terrier",
+    "lifeSpan": "10 - 13 years",
+    "origin": "United Kingdom, England",
+    "image": "https://images.dog.ceo/breeds/airedale/n02096051_2380.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Akita",
+    "breedFor": "Hunting bears",
+    "breedGroup": "Working",
+    "lifeSpan": "10 - 14 years",
+    "origin": "",
+    "image": "https://images.dog.ceo/breeds/akita/512px-Akita_inu.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Appenzeller Sennenhund",
+    "breedFor": "Herding livestock, pulling carts, and guarding the farm",
+    "breedGroup": "",
+    "lifeSpan": "12 – 14 years",
+    "origin": "",
+    "image": "https://images.dog.ceo/breeds/appenzeller/n02107908_3613.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Basenji",
+    "breedFor": "Hunting",
+    "breedGroup": "Hound",
+    "lifeSpan": "10 - 12 years",
+    "origin": "",
+    "image": "https://images.dog.ceo/breeds/basenji/n02110806_1904.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Beagle",
+    "breedFor": "Rabbit, hare hunting",
+    "breedGroup": "Hound",
+    "lifeSpan": "13 - 16 years",
+    "origin": "",
+    "image": "https://images.dog.ceo/breeds/beagle/n02088364_14394.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Bluetick Coonhound",
+    "breedFor": "Hunting with a superior sense of smell.",
+    "breedGroup": "Hound",
+    "lifeSpan": "12 - 14 years",
+    "origin": "",
+    "image": "https://images.dog.ceo/breeds/bluetick/n02088632_108.jpg"
+  },
+  {
+    "id": 8,
+    "name": "German Shepherd",
+    "breedFor": "Herding, Guard dog",
+    "breedGroup": "Herding",
+    "lifeSpan": "10 - 13 years",
+    "origin": "",
+    "image": "https://images.dog.ceo/breeds/germanshepherd/n02106662_24768.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Pug",
+    "breedFor": "Lapdog",
+    "breedGroup": "Toy",
+    "lifeSpan": "12 - 14 years",
+    "origin": "",
+    "image": "https://images.dog.ceo/breeds/pug/n02110958_2777.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Pomeranian",
+    "breedFor": "Companion",
+    "breedGroup": "Toy",
+    "lifeSpan": "15 years",
+    "origin": "",
+    "image": "https://images.dog.ceo/breeds/pomeranian/n02112018_5864.jpg"
+  }
+]
